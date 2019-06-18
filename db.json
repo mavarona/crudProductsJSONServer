@@ -1,0 +1,52 @@
+{
+  "restaurant": [
+    {
+      "price": "7",
+      "plate": "Pastel de zanahoria",
+      "category": "postre",
+      "id": 2
+    },
+    {
+      "price": "11",
+      "plate": "Ensalada de pollo",
+      "category": "ensalada",
+      "id": 3
+    },
+    {
+      "price": "6",
+      "plate": "Brownie Chocolate",
+      "category": "postre",
+      "id": 4
+    },
+    {
+      "plate": "Huevos rotos con callos",
+      "price": "10",
+      "category": "entrantes",
+      "id": 5
+    },
+    {
+      "plate": "Bacalao al eneldo",
+      "price": "18",
+      "category": "pescados",
+      "id": 6
+    },
+    {
+      "plate": "Chuletas de ávila",
+      "price": "16",
+      "category": "carnes",
+      "id": 7
+    },
+    {
+      "plate": "Setas empanadas",
+      "price": "9",
+      "category": "entrantes",
+      "id": 8
+    },
+    {
+      "plate": "Ensalada cesar",
+      "price": "10",
+      "category": "ensalada",
+      "id": 11
+    }
+  ]
+}
